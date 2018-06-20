@@ -1,4 +1,4 @@
 # hello-world
-A time honored tradition
-Some more text added here
+A time honored tradition.\n
+Some more text added here.
 
